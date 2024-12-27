@@ -10,7 +10,7 @@
 email: eyupbedirhanunlu@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
- github_username: EyupBunlu # your GitHub user name
+github_username: EyupBunlu # your GitHub user name
 # gitlab_username: # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id: 1010907 # Inspire HEP author ID
@@ -22,8 +22,8 @@ email: eyupbedirhanunlu@gmail.com # your email address
 # leetcode_id: # your LeetCode id
 linkedin_username: eyup-b-unlu # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
- medium_username: eyupb.unlu # your Medium username
- orcid_id: 0000-0002-6683-6463 # your ORCID ID
+medium_username: eyupb.unlu # your Medium username
+orcid_id: 0000-0002-6683-6463 # your ORCID ID
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
