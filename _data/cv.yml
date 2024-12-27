@@ -11,7 +11,7 @@
   contents:
     - title: PhD in Physics
       institution: University of Florida, Gainesville, Florida, USA
-      year: 2025
+      year: 2021-2025
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -22,7 +22,13 @@
             
     - title: Masters in Physics
       institution: University of Florida, Gainesville, Florida, USA
-      year: 2023
+      year: 2021-2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      - title: Bachelor of Science in Physics
+      institution: Bilkent University, Ankara, Turkey
+      year: 2016-2021
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -33,22 +39,33 @@
     - title: Doctoral Research Assistant
       institution: University of Florida, Gainesville, Florida, USA
       year: 2021-2025
-      advisor: Dr. Katia Matcheva
       description:
+        - Advisor: Dr. Katia Matcheva
         - Worked on Classical and Quantum Machine Learning Applications in High Energy Physics and Astrophysics
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - IAIFI Summer School 2023 Accommodation Award
+        - Sagan Workshop 2023 Accommodation Award
+        - CLAS and IFT Travel and Accommodation Award for European Conference on Machine Learning 2023
+        - Ariel Data Challenge 2023 Prize
+    - year: 2022
       items:
-        - Max Planck Medal
-
+        - Ariel Data Challenge 2022 Light Track Prize
+        - Ariel Data Challenge 2022 Regular Track Prize
+- title: Languages
+  type: map
+  contents:
+    -  name: English
+       value: Advanced
+    -  name: German
+       value: Intermediate
+    -  name: Turkish
+       value: Native
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
