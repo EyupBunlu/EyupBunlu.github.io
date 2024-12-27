@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: # PhD Candidate at the University of Florida # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: # PhD Candidate at the University of Florida
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+  more_info:
     <p>Gainesville, FL, USA 12345</p>
 
 news: true # includes a list of news items
