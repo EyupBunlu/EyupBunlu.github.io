@@ -18,15 +18,15 @@
       #   - title: Description 3.
       #     contents:
       #       - Sub-description 1.
-      #       - Sub-description 2.
-            
+      #       - Sub-description 2
+      
     - title: Masters in Physics
       institution: University of Florida, Gainesville, Florida, USA
       year: 2021-2023
       # description:
       #   - Description 1.
       #   - Description 2.
-      - title: Bachelor of Science in Physics
+    - title: Bachelor of Science in Physics
       institution: Bilkent University, Ankara, Turkey
       year: 2016-2021
       # description:
