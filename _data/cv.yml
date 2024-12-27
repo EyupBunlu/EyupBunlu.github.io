@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Eyup Bedirhan Unlu
-    - name: Languages
-      value: English (Advanced), Turkish (Native), German (Intermediate)
 
 - title: Education
   type: time_table
