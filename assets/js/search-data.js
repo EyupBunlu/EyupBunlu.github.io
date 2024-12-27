@@ -117,8 +117,8 @@ ninja.data = [{
           description: "Google Summer of Code 2023 @ Machine Learning for Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-symmetry-discovery-using-machine-learning",
+          title: 'Symmetry Discovery Using Machine Learning',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
