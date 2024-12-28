@@ -112,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-symmetry-discovery-using-machine-learning",
           title: 'Symmetry Discovery Using Machine Learning',
-          description: "a project with a background image and giscus comments",
+          description: "Discovering Symmetries of Continuous Functions in a Human-Interpretable Manner",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-replicating-transmission-spectra-bayesian-retrievals-using-machine-learning-for-ariel-mission",
