@@ -120,9 +120,9 @@ ninja.data = [{
           description: "Developing Novel Neural Networks to Replicate Nestled Sampling for Bayesian Exoplanet Atmospheric Retrievals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-detecting-transmission-spectra-anomalies-using-ml",
-          title: 'Detecting Transmission Spectra Anomalies using ML',
-          description: "another without an image",
+            },},{id: "projects-leveraging-unsupervised-and-semi-supervised-methods-for-transmission-spectra-processing",
+          title: 'Leveraging Unsupervised and Semi-Supervised Methods for Transmission Spectra Processing',
+          description: "Includes Several Projects Developing and Applying Unsupervised and Semi-Supervised Methods to Exoplanet Transmission Spectra",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
