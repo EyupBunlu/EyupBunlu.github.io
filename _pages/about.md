@@ -7,7 +7,7 @@ subtitle: # PhD Candidate at the University of Florida
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
     <p>Gainesville, FL, USA 32607</p>
 
