@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Symmetry Discovery Using Machine Learning
-description: a project with a background image and giscus comments
+description: Discovering Symmetries of Continuous Functions in a Human-Interpretable Manner 
 img: assets/img/symmetry.jpg
 importance: 2
 category: work
