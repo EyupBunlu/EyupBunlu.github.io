@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Replicating Transmission Spectra Bayesian Retrievals using Machine Learning 
+title: Replicating Transmission Spectra Bayesian Retrievals using Machine Learning for Ariel Mission
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/ariel.jpg
 importance: 3
 category: work
 ---
