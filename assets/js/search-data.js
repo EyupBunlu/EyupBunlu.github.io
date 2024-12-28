@@ -115,9 +115,9 @@ ninja.data = [{
           description: "Discovering Symmetries of Continuous Functions in a Human-Interpretable Manner",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-replicating-transmission-spectra-bayesian-retrievals-using-machine-learning-for-ariel-mission",
-          title: 'Replicating Transmission Spectra Bayesian Retrievals using Machine Learning for Ariel Mission',
-          description: "a project that redirects to another website",
+            },},{id: "projects-bayesian-retrievals-using-machine-learning-for-ariel-mission",
+          title: 'Bayesian Retrievals using Machine Learning for Ariel Mission',
+          description: "Developing Novel Neural Networks to Replicate Nestled Sampling for Bayesian Exoplanet Atmospheric Retrievals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-detecting-transmission-spectra-anomalies-using-ml",
