@@ -107,7 +107,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-quantum-machine-learning-for-high-energy-physics",
           title: 'Quantum Machine Learning for High Energy Physics',
-          description: "Google Summer of Code 2023 @ Machine Learning for Science",
+          description: "Developing Quantum Machine Learning models for Google Summer of Code 2023 with Machine Learning for Science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-symmetry-discovery-using-machine-learning",
