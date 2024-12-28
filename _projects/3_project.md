@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Replicating Transmission Spectra Bayesian Retrievals using Machine Learning for Ariel Mission
-description: a project that redirects to another website
+title: Bayesian Retrievals using Machine Learning for Ariel Mission
+description: Developing Novel Neural Networks to Replicate Nestled Sampling for Bayesian Exoplanet Atmospheric Retrievals 
 img: assets/img/ariel.jpg
 importance: 3
 category: work
