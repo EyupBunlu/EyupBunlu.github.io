@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Machine Learning for High Energy Physics
-description: Google Summer of Code 2023 @ Machine Learning for Science
+description: Developing Quantum Machine Learning models for Google Summer of Code 2023 with Machine Learning for Science
 img: assets/img/gsoc_ml4sci.jpg
 importance: 1
 category: work
