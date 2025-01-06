@@ -17,8 +17,8 @@ DOI = {10.3390/axioms13050323}
 }
 
 @Article{qc2,
-AUTHOR = {Dong, Zhongtian and others},
-TITLE = {$Z_2 \times Z_2$ Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks},
+AUTHOR = {Dong, Zhongtian and Comajoan Cara, Marçal and Dahale, Gopal Ramesh and Forestano, Roy T. and Gleyzer, Sergei and Justice, Daniel and Kong, Kyoungchul and Magorsch, Tom and Matchev, Konstantin T. and Matcheva, Katia and Unlu, Eyup B.},
+TITLE = {ℤ2 × ℤ2 Equivariant Quantum Neural Networks: Benchmarking against Classical Neural Networks},
 JOURNAL = {Axioms},
 VOLUME = {13},
 YEAR = {2024},
@@ -30,8 +30,11 @@ ABSTRACT = {This paper presents a comparative analysis of the performance of Equ
 DOI = {10.3390/axioms13030188}
 }
 
+
+
+
 @Article{qc3,
-AUTHOR = {Unlu, Eyup B. and others},
+AUTHOR = {Unlu, Eyup B. and Comajoan Cara, Marçal and Dahale, Gopal Ramesh and Dong, Zhongtian and Forestano, Roy T. and Gleyzer, Sergei and Justice, Daniel and Kong, Kyoungchul and Magorsch, Tom and Matchev, Konstantin T. and Matcheva, Katia},
 TITLE = {Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics},
 JOURNAL = {Axioms},
 VOLUME = {13},
@@ -42,13 +45,13 @@ URL = {https://www.mdpi.com/2075-1680/13/3/187},
 ISSN = {2075-1680},
 ABSTRACT = {Models based on vision transformer architectures are considered state-of-the-art when it comes to image classification tasks. However, they require extensive computational resources both for training and deployment. The problem is exacerbated as the amount and complexity of the data increases. Quantum-based vision transformer models could potentially alleviate this issue by reducing the training and operating time while maintaining the same predictive power. Although current quantum computers are not yet able to perform high-dimensional tasks, they do offer one of the most efficient solutions for the future. In this work, we construct several variations of a quantum hybrid vision transformer for a classification problem in high-energy physics (distinguishing photons and electrons in the electromagnetic calorimeter). We test them against classical vision transformer architectures. Our findings indicate that the hybrid models can achieve comparable performance to their classical analogs with a similar number of parameters.},
 DOI = {10.3390/axioms13030187},
-  selected={true}
-
+selected = {true}
 }
 
 
+
 @Article{qc4,
-AUTHOR = {Forestano, Roy T. and others},
+AUTHOR = {Forestano, Roy T. and Comajoan Cara, Marçal and Dahale, Gopal Ramesh and Dong, Zhongtian and Gleyzer, Sergei and Justice, Daniel and Kong, Kyoungchul and Magorsch, Tom and Matchev, Konstantin T. and Matcheva, Katia and Unlu, Eyup B.},
 TITLE = {A Comparison between Invariant and Equivariant Classical and Quantum Graph Neural Networks},
 JOURNAL = {Axioms},
 VOLUME = {13},
@@ -60,6 +63,7 @@ ISSN = {2075-1680},
 ABSTRACT = {Machine learning algorithms are heavily relied on to understand the vast amounts of data from high-energy particle collisions at the CERN Large Hadron Collider (LHC). The data from such collision events can naturally be represented with graph structures. Therefore, deep geometric methods, such as graph neural networks (GNNs), have been leveraged for various data analysis tasks in high-energy physics. One typical task is jet tagging, where jets are viewed as point clouds with distinct features and edge connections between their constituent particles. The increasing size and complexity of the LHC particle datasets, as well as the computational models used for their analysis, have greatly motivated the development of alternative fast and efficient computational paradigms such as quantum computation. In addition, to enhance the validity and robustness of deep networks, we can leverage the fundamental symmetries present in the data through the use of invariant inputs and equivariant layers. In this paper, we provide a fair and comprehensive comparison of classical graph neural networks (GNNs) and equivariant graph neural networks (EGNNs) and their quantum counterparts: quantum graph neural networks (QGNNs) and equivariant quantum graph neural networks (EQGNN). The four architectures were benchmarked on a binary classification task to classify the parton-level particle initiating the jet. Based on their area under the curve (AUC) scores, the quantum networks were found to outperform the classical networks. However, seeing the computational advantage of quantum networks in practice may have to wait for the further development of quantum technology and its associated application programming interfaces (APIs).},
 DOI = {10.3390/axioms13030160}
 }
+
 
 @article{sym1,
   title = {Deep learning symmetries and their Lie groups,  algebras,  and subalgebras from first principles},
@@ -88,7 +92,8 @@ DOI = {10.3390/axioms13030160}
   author = {Roman,  Alexander and Forestano,  Roy T. and Matchev,  Konstantin T. and Matcheva,  Katia and Unlu,  Eyup B.},
   year = {2023},
   month = jul,
-  pages = {1352}
+  pages = {1352},
+  selected = {true}
 }
 
 @article{sym3,
@@ -133,20 +138,20 @@ selected={true}
 }
 
 @InProceedings{ariel1,
-author="Unlu, Eyup B.
+author={ Unlu, Eyup B.
 and Forestano, Roy T.
 and Matchev, Konstantin T.
-and Matcheva, Katia",
-editor="Meo, Rosa
-and Silvestri, Fabrizio",
-title="Reproducing Bayesian Posterior Distributions for Exoplanet Atmospheric Parameter Retrievals with a Machine Learning Surrogate Model",
-booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
-year="2025",
-publisher="Springer Nature Switzerland",
+and Matcheva, Katia},
+editor={Meo, Rosa
+and Silvestri, Fabrizio},
+title={Reproducing Bayesian Posterior Distributions for Exoplanet Atmospheric Parameter Retrievals with a Machine Learning Surrogate Model",
+booktitle="Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+year={2025},
+publisher={Springer Nature Switzerland},
 address="Cham",
-pages="100--112",
-abstract="We describe a machine-learning-based surrogate model for reproducing the Bayesian posterior distributions for exoplanet atmospheric parameters derived from transmission spectra of transiting planets with typical retrieval software such as TauRex. The model is trained on ground truth distributions for seven parameters: the planet radius, the atmospheric temperature, and the mixing ratios for five common absorbers: {\$}{\$}H{\_}2O{\$}{\$}H2O, {\$}{\$}CH{\_}4{\$}{\$}CH4, {\$}{\$}NH{\_}3{\$}{\$}NH3, CO and {\$}{\$}CO{\_}2{\$}{\$}CO2. The model performance is enhanced by domain-inspired preprocessing of the features and the use of semi-supervised learning in order to leverage the large amount of unlabelled training data available. The model was among the winning solutions in the 2023 Ariel Machine Learning Data Challenge.",
-isbn="978-3-031-74643-7"
+pages={100--112},
+abstract={We describe a machine-learning-based surrogate model for reproducing the Bayesian posterior distributions for exoplanet atmospheric parameters derived from transmission spectra of transiting planets with typical retrieval software such as TauRex. The model is trained on ground truth distributions for seven parameters: the planet radius, the atmospheric temperature, and the mixing ratios for five common absorbers: {\$}{\$}H{\_}2O{\$}{\$}H2O, {\$}{\$}CH{\_}4{\$}{\$}CH4, {\$}{\$}NH{\_}3{\$}{\$}NH3, CO and {\$}{\$}CO{\_}2{\$}{\$}CO2. The model performance is enhanced by domain-inspired preprocessing of the features and the use of semi-supervised learning in order to leverage the large amount of unlabelled training data available. The model was among the winning solutions in the 2023 Ariel Machine Learning Data Challenge.},
+isbn={978-3-031-74643-7},
 selected = {true}
 }
 
@@ -154,19 +159,21 @@ selected = {true}
 
 @InProceedings{ariel2,
   title = 	 {Lessons Learned from Ariel Data Challenge 2022 - Inferring Physical Properties of Exoplanets From Next-Generation Telescopes},
-  author =       {Yip, K. and others},
-
+  author =       {Yip, Kai Hou and Changeat, Quentin and Waldmann, Ingo and Unlu, Eyup B. and Forestano, Roy T. and Roman, Alexander and Matcheva, Katia and Matchev, Konstantin T. and Stefanov, Stefan and Podsztavek, Ond\vrej and Morvan, Mario and Nikolaou, Nikolaos and Al-Refaie, Ahmed and Jenner, Clare and Johnson, Chris and Tsiaras, Angelos and Edwards, Billy and Alves de Oliveira, Catarina and Thiyagalingam, Jeyan and Lagage, Pierre-Olivier and Cho, James and Tinetti, Giovanna},
   booktitle = 	 {Proceedings of the NeurIPS 2022 Competitions Track},
   pages = 	 {1--17},
   year = 	 {2022},
   editor = 	 {Ciccone, Marco and Stolovitzky, Gustavo and Albrecht, Jacob},
   volume = 	 {220},
   series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {28 Nov--09 Dec},
+  publisher =    {PMLR},
   pdf = 	 {https://proceedings.mlr.press/v220/yip23a/yip23a.pdf},
   url = 	 {https://proceedings.mlr.press/v220/yip23a.html},
   abstract = 	 {Exo-atmospheric studies, i.e. the study of exoplanetary atmospheres, is an emerging frontier in Planetary Science. To understand the physical properties of hundreds of exoplanets, astronomers have traditionally relied on sampling-based methods. However, with the growing number of exoplanet detections (i.e. increased data quantity) and advancements in technology from telescopes such as JWST and Ariel (i.e. improved data quality), there is a need for more scalable data analysis techniques. The Ariel Data Challenge 2022 aims to find interdisciplinary solutions from the NeurIPS community. Results from the challenge indicate that machine learning (ML) models have the potential to provide quick insights for thousands of planets and millions of atmospheric models. However, the machine learning models are not immune to data drifts, and future research should investigate ways to quantify and mitigate their negative impact.},
-  selected={true}
+  selected = {true}
 }
+
 
 @article{ariel3,
 doi = {10.3847/1538-4357/ad0047},
