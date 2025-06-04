@@ -6,4 +6,3 @@ img:
 importance: 3
 category: work
 ---
-Larum Ipsum filan
