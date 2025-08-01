@@ -120,9 +120,9 @@ ninja.data = [{
           description: "Developing Novel Neural Networks to Replicate Nestled Sampling for Bayesian Exoplanet Atmospheric Retrievals",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-leveraging-unsupervised-and-semi-supervised-methods-for-transmission-spectra-processing",
-          title: 'Leveraging Unsupervised and Semi-Supervised Methods for Transmission Spectra Processing',
-          description: "Includes Several Projects Developing and Applying Unsupervised and Semi-Supervised Methods to Exoplanet Transmission Spectra",
+            },},{id: "projects-optimized-context-based-retrieval-and-sentiment-analysis-on-product-reviews",
+          title: 'Optimized Context Based Retrieval and Sentiment Analysis on Product Reviews',
+          description: "Contains a pipeline that can extract relevant reviews based on a given prompt and apply sentiment analysis to those reviews. Additionally, the optimization process for the pipeline and its transformation into a RESTAPI (using the FASTAPI library) are discussed in detail.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
