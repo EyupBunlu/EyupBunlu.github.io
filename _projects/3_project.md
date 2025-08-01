@@ -4,7 +4,7 @@ title: Bayesian Retrievals using Machine Learning for Ariel Mission
 description: Developing Novel Neural Networks to Replicate Nestled Sampling for Bayesian Exoplanet Atmospheric Retrievals 
 img: assets/img/ariel.jpg
 importance: 3
-category: work
+category: academic
 ---
 
 Transmission spectra—the analysis of an exoplanet's imprint on its host star's stellar flux—serve as the primary method for gaining insights into exoplanetary atmospheres. However, extracting meaningful information from these spectra is a challenging task. The process begins with constructing a complex forward radiative transfer model that accounts for the atmospheric structure, composition, and planetary parameters. Once the model is established, it is used to identify the best parameter distributions that match experimental observations. This approach, which combines the forward model with observational data to infer atmospheric parameters, is known as the retrieval process.
