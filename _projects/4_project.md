@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimized Context Based Retrieval and Sentiment Analysis on Product Reviews 
-description: Contains a pipeline that can extract relevant reviews based on a given prompt and apply sentiment analysis to those reviews. Additionally, the optimization process for the pipeline and its transformation into a RESTAPI (using the FASTAPI library) are discussed in detail.
+description: A containerized (Docker) API (FastAPI) that retrieves reviews based on the prompt received and then applies a sentiment analysis on them. Utilizes vector databases (ChromaDB) to enchance the performance. 
 img:
 importance: 3
 category: nonacademic
